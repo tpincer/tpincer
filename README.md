@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Tiago, sou amante de tecnologias, sou apaixonado por programação <strong>Full Stack Asp Net</strong>.<br>
+  Olá, meu nome é Tiago, sou amante de tecnologias e sou apaixonado por programação <strong>Full Stack Asp Net</strong>.<br>
   Sou formado em Análise e desenvolvimento de Sistemas vim da área de infraestrutura e consegui meu lugarzinho na programação depois de alguns longos anos rs.
 </p>
 
