@@ -13,12 +13,3 @@
   💼 Ferramentas: <strong>Visual Studio e Visual Studio Code, Git and GitHub.</strong>
 </p>
 
-<p align="left">
-  💌 Se você deseja realizar um projeto comigo (ou bater um papo), não hesite em me enviar uma mensagem: ⤵️
-</p>
-
-<p align="left">
- 
-   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-pincer" style="max-width:100%;" ></a>
- </p>  
